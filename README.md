@@ -41,8 +41,9 @@ I'm a passionate computer science engineering student at **UM6P**, currently loo
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uness10&show_icons=true&theme=radical&type=all" alt="GitHub Stats" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uness10&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
-  <img width="48%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=uness10&theme=radical" />
 </p>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uness10&theme=radical" />
 
 
 ## 🔥 GitHub Activity Graph  
