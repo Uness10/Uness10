@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm **Youness Anouar**  
-**🎯 Backend Developer | 🧠 Problem Solver | 🚀 Tech Enthusiast**  
+**🎯 Backend Developer | 🧠 Problem Solver | 💻 Low Level Programming | 🚀 Tech Enthusiast**  
 
 I'm a passionate computer science engineering student at **UM6P**, currently looking for a backend development internship starting in **June 2025**. My focus is on building robust, efficient, and scalable backend solutions, with hands-on experience in:  
 
