@@ -4,11 +4,12 @@
   🎯 <strong>Backend Developer</strong> | 🧠 <strong>Problem Solver</strong> | 💻 <strong>Low-Level Programming</strong> | 🚀 <strong>Tech Enthusiast</strong>
 </p>
 
+
 ---
 
 ### 👨‍💻 **About Me**  
-
-I'm a passionate computer science engineering student at **UM6P**, currently looking for a **backend development internship** starting in **June 2025**. My focus is on building robust, efficient, and scalable backend solutions.  
+I'm a passionate computer science engineering student at **UM6P**, currently looking for a **backend development internship** starting in **June 2025**. My focus is on building robust, efficient, and scalable backend solutions.
+---
 
 ### 🚀 **My Tech Stack**  
 
@@ -46,12 +47,9 @@ I'm a passionate computer science engineering student at **UM6P**, currently loo
 ### 📊 **GitHub Stats & Insights**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uness10&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=uness10&show_icons=true&theme=radical&type=all" alt="GitHub Stats" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uness10&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=uness10&theme=radical" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com/?user=uness10&theme=radical" alt="Streak Stats" height="180px"/>
 </p>
 
 ---
@@ -65,4 +63,8 @@ I'm a passionate computer science engineering student at **UM6P**, currently loo
   <a href="https://www.linkedin.com/in/youness-anouar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+<p align="center">
+  🚀 "Code with passion, innovate with purpose."
 </p>
