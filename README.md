@@ -11,6 +11,10 @@ I'm a passionate computer science engineering student at **UM6P**, currently loo
 - **DevOps & Tools:** Git, GitHub, Bash Scripting, Postman, JUnit  
 
 
+## GitHub Stats
+
+![Uness10's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uness10&show_icons=true&theme=radical)
+
 ## 🌐 **Connect with Me**  
 - **Portfolio:** [uness10.github.io/portfolio](https://uness10.github.io/portfolio)  
 - **LinkedIn:** [Youness Anouar](https://www.linkedin.com/in/Youness%20Anouar)  
