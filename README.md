@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#f39c12;">Youness Anouar</span></h1>
 
 <p align="center">
-  🎯 <strong>Backend Developer</strong> | 🧠 <strong>Problem Solver</strong> | 💻 <strong>Low-Level Programming</strong> | 🚀 <strong>Tech Enthusiast</strong>
+  🎯 <strong>Backend Developer</strong> | 🧠 <strong>Problem Solver</strong> | 💻 <strong>Low-Level Programming</strong> | 🚀 <strong>AI Enthusiast</strong>
 </p>
 
 ---
