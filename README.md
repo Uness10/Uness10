@@ -124,16 +124,15 @@ I'm a passionate computer science engineering student at **UM6P College Of Compu
 ### 📊 **GitHub Stats & Insights**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uness10&show_icons=true&theme=radical&type=all" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uness10&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+  <img width="48%" height="50%" src="https://github-readme-stats.vercel.app/api?username=ouvh&show_icons=true&theme=radical" />
+  <img width="48%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ouvh&theme=radical" />
 </p>
 
-
-
-## 🔥 GitHub Activity Graph  
+## 💡 Top Languages  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uness10&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouvh&layout=compact&theme=radical" />
 </p>
+
 
 ---
 
