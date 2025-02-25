@@ -13,8 +13,9 @@ I'm a passionate computer science engineering student at **UM6P**, currently loo
 
 ## GitHub Stats
 
-![Uness10's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uness10&show_icons=true&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uness10&show_icons=true&theme=radical)](https://github.com/uness10)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uness10&layout=compact&theme=radical)](https://github.com/uness10)
 ## 🌐 **Connect with Me**  
 - **Portfolio:** [uness10.github.io/portfolio](https://uness10.github.io/portfolio)  
 - **LinkedIn:** [Youness Anouar](https://www.linkedin.com/in/Youness%20Anouar)  
