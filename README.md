@@ -20,18 +20,25 @@ I'm a passionate computer science engineering student at **UM6P College Of Compu
 <div>
 	<div id="icons" align="center">
 		<a href="https://skillicons.dev">
-			<img src="https://skillicons.dev/icons?i=python,c,cpp,go,java,spring,html,css,js,vue,mysql,nodejs,postgres,arduino" />
+			<img src="https://skillicons.dev/icons?i=python,c,cpp,go,java,spring,html,css,js,vue,mysql,nodejs,postgres,arduino,firebase" />
 		</a>
 	</div>
 </div>
 <div>
 	<div id="icons" align="center">
 		<a href="https://skillicons.dev">
-			<img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,bash,ubuntu,postman,cmake,anaconda" />
+			<img src="https://skillicons.dev/icons?i=git,github,bash,postman,cmake,maven,anaconda" />
 		</a>
 	</div>
 </div>
 
+<div>
+	<div id="icons" align="center">
+		<a href="https://skillicons.dev">
+			<img src="https://skillicons.dev/icons?i=vscode,eclipse,ubuntu" />
+		</a>
+	</div>
+</div>
 
 ---
 
