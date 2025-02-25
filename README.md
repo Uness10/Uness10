@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#f39c12;">Youness Anouar</span></h1>
+enhance this , add more visuals and stats : <h1 align="center">👋 Hi, I'm <span style="color:#f39c12;">Youness Anouar</span></h1>
 
 <p align="center">
   🎯 <strong>Backend Developer</strong> | 🧠 <strong>Problem Solver</strong> | 💻 <strong>Low-Level Programming</strong> | 🚀 <strong>Tech Enthusiast</strong>
@@ -7,32 +7,31 @@
 ---
 
 ### 👨‍💻 **About Me**  
-I'm a passionate computer science engineering student at **UM6P**, currently looking for a **backend development internship** starting in **June 2025**. My focus is on building robust, efficient, and scalable backend solutions.
+I'm a passionate computer science engineering student at **UM6P College Of Computing**. My focus is on building robust, efficient, and scalable solutions.
 
 ---
-
-### 🚀 **My Tech Stack**  
-
 **Low-Level Programming:**  
 - RISC-V Assembly  
 - NASM x86  
+
 
 ## 🛠 **Tech Stack**  
 
 <div>
 	<div id="icons" align="center">
 		<a href="https://skillicons.dev">
-			<img src="https://skillicons.dev/icons?i=python,c,cpp,go,java,spring,html,css,js,vue,mysql,postgres,arduino" />
+			<img src="https://skillicons.dev/icons?i=python,c,cpp,go,java,spring,html,css,js,vue,mysql,nodejs,postgres,arduino" />
 		</a>
 	</div>
 </div>
 <div>
 	<div id="icons" align="center">
 		<a href="https://skillicons.dev">
-			<img src="https://skillicons.dev/icons?i=git,github,bash,postman,vscode" />
+			<img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,bash,ubuntu,postman,cmake,anaconda" />
 		</a>
 	</div>
 </div>
+
 
 ---
 
@@ -43,7 +42,6 @@ I'm a passionate computer science engineering student at **UM6P**, currently loo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uness10&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
 </p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uness10&theme=radical" />
 
 
 ## 🔥 GitHub Activity Graph  
