@@ -110,7 +110,7 @@ I'm a passionate computer science engineering student at **UM6P College Of Compu
   <a href="https://uness10.github.io/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/youness-anouar" target="_blank">
+  <a href="https://www.linkedin.com/in/youness-anouar-129681231" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
