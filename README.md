@@ -126,7 +126,9 @@ I'm a passionate computer science engineering student at **UM6P College Of Compu
 <p align="center">
   <img width="48%" height="50%" src="https://github-readme-stats.vercel.app/api?username=uness10&show_icons=true&theme=radical" />
   <img width="48%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=uness10&theme=radical" />
+
 </p>
+![Profile Views](https://komarev.com/ghpvc/?username=uness10&color=blue)
 
 ## 💡 Top Languages  
 <p align="center">
