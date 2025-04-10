@@ -3,7 +3,9 @@
 <p align="center">
   🎯 <strong>Backend Developer</strong> | 🧠 <strong>Problem Solver</strong> | 💻 <strong>Low-Level Programming</strong> | 🚀 <strong>AI Enthusiast</strong>
 </p>
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=uness10&uness10&"  />
+</div>
 ---
 
 ### 👨‍💻 **About Me**  
@@ -128,7 +130,7 @@ I'm a passionate computer science engineering student at **UM6P College Of Compu
   <img width="48%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=uness10&theme=radical" />
 
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=uness10&color=blue)
+
 
 ## 💡 Top Languages  
 <p align="center">
