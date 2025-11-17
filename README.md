@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#f39c12;">Youness Anouar</span></h1>
 
 <p align="center">
-   <strong>AI Engineer</strong> |  <strong>Problem Solver</strong> |  <strong>IoT Programming</strong> |  <strong>Researcher</strong>
+   <strong>AI Engineer</strong> |  <strong>Problem Solver</strong>  |  <strong>Researcher</strong>
 </p>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=uness10&uness10&"  />
@@ -13,6 +13,17 @@ I'm a passionate computer science engineering student at **UM6P College Of Compu
 
 ---
 ### 🚀 **My Tech Stack**  
+**AI & Data Science:**  
+<p align="left">
+	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+	<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+	<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+	<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+	<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+	<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+	<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" />
+</p>
 
 **Backend Development:**  
 <p align="left">
@@ -61,17 +72,7 @@ I'm a passionate computer science engineering student at **UM6P College Of Compu
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
 
-**AI & Data Science:**  
-<p align="left">
-	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-	<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-	<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-	<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-	<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-	<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-	<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" />
-</p>
+
 
 **IoT & Robotics:**  
 <p align="left">
@@ -88,13 +89,6 @@ I'm a passionate computer science engineering student at **UM6P College Of Compu
   <img src="https://img.shields.io/badge/NASM%20x86-00599C?style=for-the-badge&logo=assemblyscript&logoColor=white" />
 </p>
 
-**Security:**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
-</p>
 
 
 **Software Engineering & Methodologies:**  
@@ -117,9 +111,6 @@ I'm a passionate computer science engineering student at **UM6P College Of Compu
   </a>
 </p>
 
-<p align="center">
-  🚀 "Code with passion, innovate with purpose."
-</p> 
 
 ---
 
