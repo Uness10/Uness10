@@ -8,11 +8,11 @@
 </div>
 ---
 
-### 👨‍💻 **About Me**  
+### **About Me**  
 I'm a passionate computer science engineering student at **UM6P College Of Computing**. My focus is on building robust, efficient, and scalable solutions.
 
 ---
-### 🚀 **My Tech Stack**  
+### **My Tech Stack**  
 **AI & Data Science:**  
 <p align="left">
 	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
