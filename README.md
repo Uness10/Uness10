@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#f39c12;">Youness Anouar</span></h1>
+<h1 align="center">Hi, I'm <span style="color:#f39c12;">Youness Anouar. I make things</span></h1>
 
 <p align="center">
    <strong>AI Engineer</strong> |  <strong>Problem Solver</strong>  |  <strong>Researcher</strong>
@@ -25,58 +25,28 @@ I'm a passionate computer science engineering student at **UM6P College Of Compu
 	<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" />
 </p>
 
-**Backend Development:**  
+**Core Programming:**  
 <p align="left">
-	<img src="https://img.shields.io/badge/RESTful%20API-005571?style=for-the-badge&logo=rest&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-	<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 	<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 	<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-	<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-	<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-	<img src="https://img.shields.io/badge/Servlet-4285F4?style=for-the-badge&logo=java&logoColor=white" />
-	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-	<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-
-</p>
 
 
-**Databases:**  
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-**DevOps & Tools:**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
 
 
 
 
 
-
-
-**Software Engineering & Methodologies:**  
-- **UML**, **OOP**, **Design Patterns**, **SOLID Principles**, **Agile Scrum**  
-- **Testing Tools:** **Postman**, **JUnit**  
 
 
 ---
 
 
 
-### 🌐 **Connect with Me**  
+###  ** Stay in touch**  
 
 <p align="center">
   <a href="https://uness10.github.io/portfolio" target="_blank">
@@ -90,7 +60,7 @@ I'm a passionate computer science engineering student at **UM6P College Of Compu
 
 ---
 
-### 📊 **GitHub Stats & Insights**  
+###  **GitHub Stats & Insights**  
 
 <p align="center">
   <img width="48%" height="50%" src="https://github-readme-stats.vercel.app/api?username=uness10&show_icons=true&theme=radical" />
@@ -99,7 +69,7 @@ I'm a passionate computer science engineering student at **UM6P College Of Compu
 </p>
 
 
-## 💡 Top Languages  
+##  Top Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uness10&layout=compact&theme=radical" />
 </p>
